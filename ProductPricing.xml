@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pricing_Menu>
+  <pricing>
+  <ProductCode>VS5</ProductCode>
+  <Quantity>3</Quantity>
+  <price>6.99</price>
+</pricing>
+<pricing>
+  <ProductCode>VS5</ProductCode>
+  <Quantity>5</Quantity>
+  <price>8.99</price>
+</pricing>
+<pricing>
+  <ProductCode>MB11</ProductCode>
+  <Quantity>2</Quantity>
+  <price>9.95</price>
+</pricing>
+<pricing>
+  <ProductCode>MB11</ProductCode>
+  <Quantity>5</Quantity>
+  <price>16.95</price>
+</pricing>
+<pricing>
+  <ProductCode>MB11</ProductCode>
+  <Quantity>8</Quantity>
+  <price>24.95</price>
+</pricing>
+<pricing>
+  <ProductCode>CF</ProductCode>
+  <Quantity>3</Quantity>
+  <price>5.95</price>
+</pricing>
+<pricing>
+  <ProductCode>CF</ProductCode>
+  <Quantity>5</Quantity>
+  <price>9.95</price>
+</pricing>
+<pricing>
+  <ProductCode>CF</ProductCode>
+  <Quantity>9</Quantity>
+  <price>16.99</price>
+</pricing>
+</pricing_Menu>
+
+<!--ProductCode	Quantity	Price
+VS5	3	6.99
+VS5	5	
+MB11	2	
+MB11	5	
+MB11	8	
+CF	3	
+CF	5	
+	9-->	
